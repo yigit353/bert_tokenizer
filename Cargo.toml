@@ -1,10 +1,12 @@
 [package]
 name = "bert_tokenizer"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Yiğit Bekir Kaya <kayayig@itu.edu.tr>"]
 description = "This crate is a Rust port of Google's BERT WordPiece tokenizer."
 license-file = "LICENSE"
+license = "MIT"
+repository = "https://github.com/yigit353/bert_tokenizer"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
